@@ -12,19 +12,19 @@ documento por e-mail para o Gerente de Recursos Humanos para que seja feita a an
 
 ## Solução
 
-Para minimizar as tarefas repetitivas na área de Recursos Humanos com relação ao relatório analítico de vagas abertas, foi implementado usando a linguagem de programação Python um sistema que visa automatizar a coleta de dados e também a geração e o envio por e-mail de uma planilha em Excel  para o Gerente de Recursos Humanos  contendo todas as vagas disponíveis no site.
+Para minimizar as tarefas repetitivas na área de Recursos Humanos com relação ao relatório analítico de vagas abertas foi implementado um sistema usando a linguagem de programação Python, que visa automatizar a coleta de dados e também a geração e o envio por e-mail de uma planilha em Excel  para o Gerente de Recursos Humanos  contendo todas as vagas disponíveis no site.
 
 ## Funcionalidades
 
-* Coletar Vagas - Tem por objetivo acessar o endereço [https://cadmus.com.br/vagas-tecnologia/](https://cadmus.com.br/vagas-tecnologia/)  e fazer a coleta de todos os nomes dos cargos, locais e  descrições.
+* **Coletar Vagas** - Tem por objetivo acessar o endereço [https://cadmus.com.br/vagas-tecnologia/](https://cadmus.com.br/vagas-tecnologia/)  e fazer a coleta de todos os nomes dos cargos, locais e  descrições.
 
 ![Página de vagas da Cadmus](https://uploaddeimagens.com.br/images/003/754/554/full/tela-01.png?1646414016)
 
-* Criar planilha -  Tem por objetivo criar uma planilha em Excel e inserir todos os dados coletados nas colunas Nome, Local e Descrição.
+* **Criar planilha** -  Tem por objetivo criar uma planilha em Excel e inserir todos os dados coletados nas colunas Nome, Local e Descrição.
 
 ![Planilha analítica de vagas abertas](https://uploaddeimagens.com.br/images/003/754/589/full/tela-02.png?1646414922)
 
-* Enviar planilha por e-mail - Tem por objetivo pegar a planilha criada e enviar em anexo por e-mail para o Gerente de Recursos Humanos contendo no título e no corpo da mensagem a data na qual a mesma foi coletada e enviada.
+* **Enviar planilha por e-mail** - Tem por objetivo enviar a planilha criada em anexo por e-mail, para o Gerente de Recursos Humanos contendo no título e no corpo da mensagem,  a data na qual a mesma foi coletada e enviada.
 
 ![Planilha de e-mail Gmail](https://uploaddeimagens.com.br/images/003/754/635/full/tela-03.png?1646415919)
 
