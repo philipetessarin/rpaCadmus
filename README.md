@@ -32,8 +32,7 @@ Para minimizar as tarefas repetitivas na área de Recursos Humanos com relação
 
 ## Rodando o projeto :bulb:
 
-Chromedriver: Versão 99.0.4844.51
-Python: Versão 3.10.2
+Python: Versão 3.10.2 | Chromedriver: Versão 99.0.4844.51
 
 #### Clone este repositório
 ```
