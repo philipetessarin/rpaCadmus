@@ -5,7 +5,7 @@
 > A área de Recursos Humanos é responsável pelo processo de recrutamento dentro de uma determinada empresa.
 Para mensurar a efetividade e desempenho da equipe de recrutamento o Gerente de Recursos Humanos atribuiu
 a tarefa de gerar um relatório analítico de vagas abertas da empresa ao Assistente Administrativo. Diariamente
-o Assistente Administrativo acessa o endereço [https://cadmus.com.br/vagas-tecnologia/](https://cadmus.com.br/vagas-tecnologia/) através do navegador
+o Assistente Administrativo acessa o endereço [https://cadmus.com.br/vagas-tecnologia/](https://cadmus.com.br/vagas-tecnologia/){:target="_blank"} através do navegador
 para extrair as vagas em aberto e compilar os dados em uma planilha do excel que contém minimamente três colunas
 **(nome, local e descrição)**. Com a planilha formatada o Assistente Administrativo encaminha o 
 documento por e-mail para o Gerente de Recursos Humanos para que seja feita a análise desejada.
